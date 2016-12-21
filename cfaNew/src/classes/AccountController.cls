@@ -1,5 +1,6 @@
 public class AccountController {
 //code cheking1
+//feature branch chekcin
 @AuraEnabled
     public static List<Account> getAccountsA()
     {
